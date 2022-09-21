@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperCalculadora</string>
+    <string name="x">X</string>
+    <string name="vari_vel_x">Variável X:</string>
+    <string name="set_vari_vel_x">Set Variável X</string>
+    <string name="vari_vel_y">Variável Y:</string>
+    <string name="y">Y</string>
+    <string name="soma">Soma:</string>
+    <string name="set_vari_vel_y">Set Variável Y</string>
+    <string name="calcular">Calcular</string>
+    <string name="realizando_calculos">Calculo Realizado Com Sucesso</string>
+</resources>
